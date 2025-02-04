@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Disparo.uf2'
+elf = 'build/Disparo.elf'
