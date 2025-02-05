@@ -6,7 +6,7 @@ Desenvolvido pelo aluno Eduardo Medeiros Magalhães
 
 ## Links:
 - Vídeo no YouTube da execução no simulador Wokwi integrado ao VSCode: https://youtu.be/Nw4VQusfNOM
-- Vídeo no Youtube da execução na placa Bidoglab: 
+- Vídeo no Youtube da execução na placa Bidoglab: https://youtube.com/shorts/WDjoYNYAdZE?feature=share
 
 ## Descrição do Projeto
 Este projeto implementa um sistema de temporização para o acionamento de LEDs no Raspberry Pi Pico W. A ativação ocorre através de um botão (pushbutton), e os LEDs desligam sequencialmente com um atraso de 3 segundos entre cada estado.
